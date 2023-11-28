@@ -1,5 +1,5 @@
 
-# periyodik tablo
+# periodic table project.
 
 periodic table created for school project, u found live demo in;
 https://periodictable.com.tr
