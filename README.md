@@ -1,5 +1,7 @@
 
-# periyodiktablo
+# periyodik tablo
 
-okul için geliştirilmiş periyodik tablo.
-evet öyle bir şey.
+periodic table created for school project, u found live demo in;
+https://periodictable.com.tr
+
+no need installs, download, extract and click main website.
